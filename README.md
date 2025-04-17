@@ -1,5 +1,3 @@
-# Social-Media-Trend-Analyzer
-
 # Social Media Trend Analyzer
 
 ## Description
